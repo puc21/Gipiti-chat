@@ -1,0 +1,8 @@
+[gd_scene load_steps=2 format=3 uid="uid://coc2ng7obv4a1"]
+
+[ext_resource type="Script" path="res://Trabuc.gd" id="1_5sbm6"]
+
+[node name="Trabuc" type="Node3D"]
+script = ExtResource("1_5sbm6")
+
+[node name="MeshInstance3D" type="MeshInstance3D" parent="."]
